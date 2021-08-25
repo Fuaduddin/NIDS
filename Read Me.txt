@@ -1,0 +1,15 @@
+A Relative Study of Supervised Machine Learning Classifiers for Detecting the Anomaly Traffic:
+Project Donw By:
+Farzana Akhi
+Fuad Uddin
+Mohammad Sajjad Hossain
+
+
+Supervisor
+Dr. Anisur Rahman
+Associate Professor
+Department of Computer Science and Engineering
+Proctor
+East West University
+A thesis submitted in partial fulfillment of the requirements for the degree of
+Bachelor of Science in Computer Science and Engineering
